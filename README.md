@@ -1,4 +1,4 @@
-# quantitaitve_finance
+# quantitative_finance
 Python scripts for quant finance
 
 
