@@ -4,6 +4,7 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 
+
 class Hist:
 
     def __init__(self, stocks, start_date, end_date):
