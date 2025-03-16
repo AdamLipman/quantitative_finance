@@ -4,6 +4,7 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 
 risk_free_rate = 0.05
+
 months_in_year = 12
 
 class CAPM:
