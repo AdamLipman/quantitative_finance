@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import scipy.optimize as optimization
 #import winsound
 
+
 # sound for end of program
 duration = 100  # ms
 freq = 440  # Hz
