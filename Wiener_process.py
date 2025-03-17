@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 def wiener_process(dt = 0.10, x0 = 0, n = 1000):
 
     # W(t=0) = 0
