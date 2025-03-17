@@ -8,6 +8,7 @@ import seaborn as sns
 import scipy.optimize as optimization
 import time
 
+
 pd.set_option("display.max_rows", 1000, "display.min_rows", 200, "display.max_columns", None, "display.width", None)
 
 stocks = ['QQQ', 'AAPL', 'MSFT', 'AMZN', 'TSLA', 'GOOG', 'GOOGL', 'NVDA', 'META', 'PEP', 'COST']
