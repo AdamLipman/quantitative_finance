@@ -1,6 +1,7 @@
 import numpy as np
 
 
+
 class Option:
 
     def __init__(self, S0, K, T, rf, sigma, iterations):
