@@ -14,6 +14,7 @@ num_trading_days_in_quarter = 63
 num_portfolios = 10000
 num_quarters = 20
 
+
 risk_free_rate = .025
 
 
