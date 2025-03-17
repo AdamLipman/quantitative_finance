@@ -1,5 +1,6 @@
 from math import exp
 
+
 def future_discrete_value(x,r,n):
     return x*(1+r)**n
 
