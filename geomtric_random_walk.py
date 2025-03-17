@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 def sim_geo_rand_walk(S0, T=2000, N=1000, mu=0.001, sigma=0.005):
     dt = T / N
     t = np.linspace(0,T,N)
