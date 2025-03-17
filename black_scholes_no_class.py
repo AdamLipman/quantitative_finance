@@ -2,6 +2,7 @@ from numpy import log, exp, sqrt, pi
 from scipy import stats
 
 
+
 def call(S, K, T, rf, sigma):
     d1 = (log(S / K) + (rf + sigma ** 2 / 2) * T) / (sigma * sqrt(T))
     d2 = d1 - sigma * sqrt(T)
