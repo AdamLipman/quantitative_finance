@@ -4,6 +4,7 @@ from scipy import stats
 import numpy as np
 
 
+
 class Option:
 
     def __init__(self, S, K, T, rf, sigma):
