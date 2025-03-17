@@ -4,6 +4,7 @@ import pandas as pd
 import datetime
 
 
+
 class VaR_monte:
 
     def __init__(self, stock, start_date, end_date):
