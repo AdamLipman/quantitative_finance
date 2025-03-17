@@ -1,5 +1,6 @@
 from math import exp
 
+
 class Discount_Coupon_Bond:
     def __init__(self, principal, coupon_rate, market_rate, maturity):
         self.principal = principal
