@@ -7,6 +7,7 @@ class CouponBond:
         self.maturity = maturity
         self.interest_rate = interest_rate/100
 
+    
     def present_value(self, x, n):
         return x/(1+self.interest_rate)**n
 
