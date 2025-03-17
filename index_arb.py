@@ -8,6 +8,7 @@ import seaborn as sns
 import datetime
 import winsound
 
+
 duration = 500  # milliseconds
 freq = 440  # Hz
 
